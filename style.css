@@ -40,7 +40,7 @@ img{
 }
             /*banner seaction*/
 .banner{
-  background: url(Picture/banner.jpeg) no-repeat center;
+  background: url(banner.jpeg) no-repeat center;
  background-size: cover;
  
   padding: 80px 0;
